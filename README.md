@@ -3,7 +3,7 @@
 [<img src="bar.svg">](http://www.realsolutions.com.tr)
 </div>
 
-I'm Alperen, an embedded systems hardware and software developer. I work in the field of Machine Learning and artificial intelligence at Real Solutions Company. I also work in the fields of 3D design, Graphic design, artificial intelligence and machine learning. I am actively working on an artificial intelligence application with a linux-based mini pc that I designed myself. My hobbies include playing the electric guitar and playing football.
+I'm Alperen, an embedded systems hardware and software developer. I work in the field of Machine Learning and artificial intelligence at Real Solutions Company. I also work in the fields of 3D design, Graphic design, artificial intelligence and machine learning. I am actively working on an artificial intelligence application with a linux-based mini pc that I designed myself. My hobbies include playing the electro guitar and playing football.
 
 -------
 
